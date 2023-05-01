@@ -2,7 +2,7 @@
   "chefs": [
     {
       "id": "1",
-      "picture": "https://example.com/chef1.jpg",
+      "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2hlZnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "name": "Chef Ahmed",
       "bio": "Chef Ahmed is a renowned chef in Bangladesh. He has over 15 years of experience in the culinary industry and has worked in several popular restaurants in Dhaka.",
       "experience": "15",
@@ -52,7 +52,7 @@
 
     {
       "id": "2",
-      "picture": "https://example.com/chef2.jpg",
+      "picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "name": "Chef Farhana",
       "bio": "Chef Farhana is a self-taught chef who specializes in traditional Bangladeshi cuisine. She has been cooking for over 20 years and is known for her delicious curries and biriyanis.",
       "experience": "20",
@@ -102,7 +102,7 @@
 
     {
       "id": "3",
-      "picture": "https://example.com/chef3.jpg",
+      "picture": "https://plus.unsplash.com/premium_photo-1676996177429-d9e3db36444a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVtYWxlJTIwY2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "name": "Chef Khadija",
       "bio": "Chef Khadija is a master of Bangladeshi street food. She has been cooking for over 25 years and is famous for her mouth-watering snacks and desserts.",
       "experience": "25",
@@ -140,7 +140,7 @@
 
     {
       "id": "4",
-      "picture": "https://example.com/chef4.jpg",
+      "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "name": "Chef Nasir",
       "bio": "Chef Nasir is a culinary school graduate who specializes in fusion cuisine. He has worked in several Michelin-starred restaurants and is known for his innovative dishes.",
       "experience": "12",
@@ -178,7 +178,7 @@
 
     {
       "id": "5",
-      "picture": "https://example.com/chef5.jpg",
+      "picture": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZmVtYWxlJTIwY2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "name": "Chef Rumi",
       "bio": "Chef Rumi is a home cook who has been sharing her traditional Bangladeshi recipes on social media for the past 5 years. She is passionate about preserving the country's culinary heritage.",
       "experience": "5",
@@ -227,7 +227,7 @@
     },
     {
       "id": "6",
-      "picture": "https://example.com/chef6.jpg",
+      "picture": "https://images.unsplash.com/photo-1516465879621-ba68889551a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZlbWFsZSUyMGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "name": "Chef Ayesha",
       "bio": "Chef Ayesha is a pastry chef who has worked in several high-end hotels in Bangladesh. She is famous for her cakes and desserts.",
       "experience": "10",
