@@ -1,0 +1,272 @@
+{
+  "chefs": [
+    {
+      "id": "1",
+      "picture": "https://example.com/chef1.jpg",
+      "name": "Chef Ahmed",
+      "bio": "Chef Ahmed is a renowned chef in Bangladesh. He has over 15 years of experience in the culinary industry and has worked in several popular restaurants in Dhaka.",
+      "experience": "15",
+      "likes": "1000",
+      "recipes": [
+        {
+          "id": "1",
+          "name": "Chicken Biriyani",
+          "ingredients": [
+            "Basmati rice",
+            "Chicken",
+            "Onion",
+            "Ginger-garlic paste",
+            "Spices"
+          ],
+          "cooking_method": "Boil the rice and cook chicken with spices. Layer the rice and chicken in a pot and cook for 30 minutes.",
+          "rating": "4.5"
+        },
+        {
+          "id": "2",
+          "name": "Beef Curry",
+          "ingredients": [
+            "Beef",
+            "Tomatoes",
+            "Onion",
+            "Ginger-garlic paste",
+            "Spices"
+          ],
+          "cooking_method": "Cook beef with spices and add tomatoes and onions. Simmer until the beef is tender.",
+          "rating": "4"
+        },
+        {
+          "id": "3",
+          "name": "Lentil Soup",
+          "ingredients": [
+            "Lentils",
+            "Onion",
+            "Tomatoes",
+            "Ginger-garlic paste",
+            "Spices"
+          ],
+          "cooking_method": "Boil lentils and add tomatoes and onions. Cook until the lentils are soft and tender.",
+          "rating": "3.5"
+        }
+      ]
+    },
+
+    {
+      "id": "2",
+      "picture": "https://example.com/chef2.jpg",
+      "name": "Chef Farhana",
+      "bio": "Chef Farhana is a self-taught chef who specializes in traditional Bangladeshi cuisine. She has been cooking for over 20 years and is known for her delicious curries and biriyanis.",
+      "experience": "20",
+      "likes": "1500",
+      "recipes": [
+        {
+          "id": "1",
+          "name": "Beef Biriyani",
+          "ingredients": [
+            "Basmati rice",
+            "Beef",
+            "Onion",
+            "Ginger-garlic paste",
+            "Spices"
+          ],
+          "cooking_method": "Boil the rice and cook beef with spices. Layer the rice and beef in a pot and cook for 30 minutes.",
+          "rating": "4"
+        },
+        {
+          "id": "2",
+          "name": "Fish Curry",
+          "ingredients": [
+            "Fish",
+            "Tomatoes",
+            "Onion",
+            "Ginger-garlic paste",
+            "Spices"
+          ],
+          "cooking_method": "Cook fish with spices and add tomatoes and onions. Simmer until the fish is tender.",
+          "rating": "4.5"
+        },
+        {
+          "id": "3",
+          "name": "Chickpea Curry",
+          "ingredients": [
+            "Chickpeas",
+            "Onion",
+            "Tomatoes",
+            "Ginger-garlic paste",
+            "Spices"
+          ],
+          "cooking_method": "Boil chickpeas and add tomatoes and onions. Cook the tomato in soft heat. Simmer until the chicken-meat is tender.",
+          "rating": "3.5"
+        }
+      ]
+    },
+
+    {
+      "id": "3",
+      "picture": "https://example.com/chef3.jpg",
+      "name": "Chef Khadija",
+      "bio": "Chef Khadija is a master of Bangladeshi street food. She has been cooking for over 25 years and is famous for her mouth-watering snacks and desserts.",
+      "experience": "25",
+      "likes": "2000",
+      "recipes": [
+        {
+          "id": "1",
+          "name": "Pitha",
+          "ingredients": [
+            "Rice flour",
+            "Coconut",
+            "Jaggery",
+            "Cardamom",
+            "Ghee"
+          ],
+          "cooking_method": "Mix the ingredients and shape them into small pancakes. Fry them in ghee until golden brown.",
+          "rating": "4.5"
+        },
+        {
+          "id": "2",
+          "name": "Samosa",
+          "ingredients": ["Potatoes", "Peas", "Onion", "Spices", "Flour"],
+          "cooking_method": "Make a dough with flour and water. Fill the samosas with spiced potatoes and peas. Fry until crispy.",
+          "rating": "4"
+        },
+        {
+          "id": "3",
+          "name": "Mishti Doi",
+          "ingredients": ["Milk", "Yogurt", "Sugar", "Cardamom", "Saffron"],
+          "cooking_method": "Boil the milk and add sugar, cardamom, and saffron. Let it cool and mix with yogurt. Keep it in a warm place overnight.",
+          "rating": "3.5"
+        }
+      ]
+    },
+
+    {
+      "id": "4",
+      "picture": "https://example.com/chef4.jpg",
+      "name": "Chef Nasir",
+      "bio": "Chef Nasir is a culinary school graduate who specializes in fusion cuisine. He has worked in several Michelin-starred restaurants and is known for his innovative dishes.",
+      "experience": "12",
+      "likes": "2500",
+      "recipes": [
+        {
+          "id": "1",
+          "name": "Spicy Beef Tacos",
+          "ingredients": ["Beef", "Tortillas", "Lettuce", "Tomatoes", "Salsa"],
+          "cooking_method": "Cook beef with spices and fill the tortillas. Top with lettuce, tomatoes, and salsa.",
+          "rating": "4.5"
+        },
+        {
+          "id": "2",
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["Shrimp", "Rice", "Egg", "Carrots", "Peas"],
+          "cooking_method": "Cook rice and mix with stir-fried shrimp, eggs, carrots, and peas.",
+          "rating": "4"
+        },
+        {
+          "id": "3",
+          "name": "Vegetable Curry",
+          "ingredients": [
+            "Potatoes",
+            "Carrots",
+            "Cauliflower",
+            "Onion",
+            "Tomatoes"
+          ],
+          "cooking_method": "Cook vegetables with spices and add tomatoes and onions. Simmer until the vegetables are tender.",
+          "rating": "3.5"
+        }
+      ]
+    },
+
+    {
+      "id": "5",
+      "picture": "https://example.com/chef5.jpg",
+      "name": "Chef Rumi",
+      "bio": "Chef Rumi is a home cook who has been sharing her traditional Bangladeshi recipes on social media for the past 5 years. She is passionate about preserving the country's culinary heritage.",
+      "experience": "5",
+      "likes": "1500",
+      "recipes": [
+        {
+          "id": "1",
+          "name": "Shorshe Ilish",
+          "ingredients": [
+            "Hilsa fish",
+            "Mustard",
+            "Turmeric",
+            "Green chili",
+            "Oil"
+          ],
+          "cooking_method": "Marinate the fish in a paste of mustard, turmeric, and green chili. Fry the fish in hot oil until golden brown.",
+          "rating": "4"
+        },
+        {
+          "id": "2",
+          "name": "Aloo Posto",
+          "ingredients": [
+            "Potatoes",
+            "Poppy seeds",
+            "Mustard oil",
+            "Green chili",
+            "Salt"
+          ],
+          "cooking_method": "Boil potatoes and mash them. Mix with a paste of poppy seeds and green chili. Add mustard oil and salt.",
+          "rating": "4.5"
+        },
+        {
+          "id": "3",
+          "name": "Bhapa Pitha",
+          "ingredients": [
+            "Rice flour",
+            "Jaggery",
+            "Coconut",
+            "Cardamom",
+            "Water"
+          ],
+          "cooking_method": "Mix the ingredients and steam in a banana leaf for 20 minutes.",
+          "rating": "3.5"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "picture": "https://example.com/chef6.jpg",
+      "name": "Chef Ayesha",
+      "bio": "Chef Ayesha is a pastry chef who has worked in several high-end hotels in Bangladesh. She is famous for her cakes and desserts.",
+      "experience": "10",
+      "likes": "3000",
+      "recipes": [
+        {
+          "id": "1",
+          "name": "Black Forest Cake",
+          "ingredients": [
+            "Flour",
+            "Sugar",
+            "Cocoa powder",
+            "Eggs",
+            "Whipped cream"
+          ],
+          "cooking_method": "Bake layers of chocolate cake and fill with whipped cream and cherries. Cover with more whipped cream and decorate with chocolate shavings.",
+          "rating": "4.5"
+        },
+        {
+          "id": "2",
+          "name": "Gulab Jamun",
+          "ingredients": ["Milk powder", "Flour", "Sugar", "Rose water", "Oil"],
+          "cooking_method": "Make a dough with milk powder and flour. Shape into balls and fry in hot oil. Soak in sugar syrup and rose water.",
+          "rating": "4"
+        },
+        {
+          "id": "3",
+          "name": "Chocolate Truffles",
+          "ingredients": [
+            "Dark chocolate",
+            "Heavy cream",
+            "Butter",
+            "Cocoa powder",
+            "Vanilla extract"
+          ],
+          "cooking_method": "Melt chocolate and mix with heated cream and butter. Add cocoa powder and vanilla extract. Shape into balls and finally freeze it deep before serving.",
+          "rating": "3.5"
+        }
+      ]
+    }
+  ]
+}
